@@ -1,3 +1,4 @@
-import { hi, last } from "./src/index.js";
+import { hi, last } from './src/index';
+
 hi();
 last();
